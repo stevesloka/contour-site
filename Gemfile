@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'github-pages'
+gem 'redcarpet'
+gem 'jekyll-github-metadata'
+gem 'jekyll-seo-tag'
